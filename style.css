@@ -1,0 +1,12 @@
+#results {
+    display:none;
+}
+
+body {
+    background-image: url("tipimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    
+    
+}
