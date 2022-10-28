@@ -20,4 +20,3 @@ document.querySelector('#tip-form').onchange = function(){
   
 }
 
-alert("Welcome to the tip calculator!");
